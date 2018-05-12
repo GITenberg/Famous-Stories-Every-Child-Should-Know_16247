@@ -1,0 +1,35 @@
+_repo: Famous-Stories-Every-Child-Should-Know_16247
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Mabie, Hamilton Wright
+    alias: Mabie, Hamilton W. (Hamilton Wright)
+    birthdate: 1846
+    deathdate: 1916
+    gutenberg_agent_id: '1421'
+    url: http://www.gutenberg.org/2009/agents/1421
+    wikipedia: http://en.wikipedia.org/wiki/Hamilton_Wright_Mabie
+description: ''
+gutenberg_bookshelf: Children's Anthologies
+gutenberg_issued: '2005-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16247'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+tableOfContents: 'A Child''s Dream of a Star, By Dickens -- The King of the Golden
+  River or, The Black Brothers, By Ruskin -- The Snow Image: A Childish Miracle, By
+  Hawthorne -- Undine, By Friedrich -- The Story of Ruth -- The Great Stone Face,
+  By  Hawthorne -- The Diverting History of John Gilpin, By Cowper -- The Man Without
+  a Country, By Hale -- The Nürnberg Stove, By Ramee -- Rab and His Friends, By  Brown
+  -- Peter Rugg, the Missing Man, By Austin.'
+title: Famous Stories Every Child Should Know
+url: http://www.gutenberg.org/ebooks/16247
